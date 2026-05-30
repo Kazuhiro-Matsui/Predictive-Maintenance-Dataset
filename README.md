@@ -8,6 +8,9 @@
 > 各係数の **95% HDI（最高密度区間）** によって「どの物理量がどれだけリスクに効いているか」を統計的に説明可能とし、
 > 製造業の **予知保全 AI** としての運用フローを設計した。
 
+**※GitHub側のレンダラー障害により直接表示できない場合があります。
+その場合は恐れ入りますが、下記↓の『Open in Colab』バッジからご覧ください**
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhiro-Matsui/Predictive-Maintenance-Dataset/blob/main/Predictive_Maintenance_Dataset_ipynb_%E3%81%AE%E6%94%B9%E5%96%84%E3%83%A2%E3%83%87%E3%83%AB.ipynb)
 
 ---
